@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Januka2000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Januka_n
+- 👀 I’m interested in programming and cyber security
+- 🌱 I’m currently learning cyber security
+- 💞️ I’m looking to collaborate on ****
+- 📫 How to reach me ***#
 
 <!---
 Januka2000/Januka2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
